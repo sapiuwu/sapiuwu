@@ -1,95 +1,164 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#6A5ACD">Aliftech</span> (a.k.a. <b>Wahyouka</b>)</h1>
-<h3 align="center">Software Engineer • Investor • Builder</h3>
+<div align="center">
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=aliftech&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/aliftech?pet-id=776062516929573260"
-    width="600"
-    height="120"
-  />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Sapiuwu&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=%20Software%20Engineer%20%E2%80%A2%20Investor%20%E2%80%A2%20Builder&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+
+<a href="https://github.com/sapiuwu">
+  <img src="https://komarev.com/ghpvc/?username=sapiuwu&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="sapiuwu" />
 </a>
-  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=700&lines=Building+tech+that+scales+and+earns+%F0%9F%92%B0;Bridging+code+%26+capital+through+automation;Software+Engineer+by+craft%2C+Investor+by+vision" alt="Typing SVG" />
-</p>
+<a href="https://github.com/sapiuwu">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapiuwu&theme=tokyonight&hide_border=true" width="600" />
+</a>
+
+</div>
 
 ---
 
 ### 🧠 About Me
-I build technology the way I build portfolios — with **precision, patience, and purpose**.  
-With 5+ years in **software engineering** and 4+ years in **personal investing**,  
-I create systems that make both code and capital work harder.
 
-#### 🛠️ Currently Building
-- 🕵️ **[Jin](https://github.com/aliftech/jin)** — passive OSINT & reconnaissance toolkit  
-- 🛡️ **[Eosav](https://github.com/aliftech/eosav)** — antivirus software built with Vue.js + Electron  
-- ⚙️ **[Galus](https://github.com/aliftech/galus)** — live-reload tool for Go developers  
+```yaml
+name: "Sapiuwu"
+location: "Indonesia"
+education:
+  - "Self-taught Software Engineer"
+current_role: "Software Engineer & Investor"
+focus:
+  - "Building scalable backend systems"
+  - "Desktop & web application development"
+  - "Long-term value investing"
+philosophy: "Compounding — knowledge, skill, and impact"
+quote: "Code builds systems. Capital builds empires."
+```
 
 ---
 
-### 🚀 My Focus
-- **Secure and scalable systems** — Go, Fiber, GORM, Docker  
-- **Desktop & web apps** — Vue.js, Electron, TypeScript, React, Next.js  
-- **Investment** — long-term value investor focused on companies with strong moats  
-- **Long-term vision:** building an **investment firm powered by technology**
+### 🛠️ What I Do
 
-> 💬 “Code builds systems. Capital builds empires. I’m here to master both.”
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**🔧 Software Engineering**
+- Build secure and scalable backend with **Go**, **Fiber**, **GORM**
+- Create desktop & web apps with **Vue.js**, **Electron**, **TypeScript**
+- Deploy and orchestrate with **Docker** and **CI/CD**
+- Design **REST APIs** and **microservices architecture**
+
+    </td>
+    <td width="50%" valign="top">
+
+**📈 Investment**
+- Long-term value investing focused on **strong moats**
+- Building an **investment firm powered by technology**
+- Automating research and analysis through code
+- Compounding wealth through patience and discipline
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🕵️ Jin
+> Passive OSINT & reconnaissance toolkit for gathering intelligence.
+
+**Tech:** `Go` `Fiber` `REST API`
+
+[`🔗 Repository`](https://github.com/sapiuwu/jin)
+
+#### 🛡️ Eosav
+> Lightweight antivirus software for desktop platforms.
+
+**Tech:** `Vue.js` `Electron` `TypeScript`
+
+[`🔗 Repository`](https://github.com/sapiuwu/eosav)
+
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+#### ⚙️ Galus
+> Live-reload tool for Go developers — edit, save, and see changes instantly.
+
+**Tech:** `Go` `CLI` `FileSystem Watcher`
+
+[`🔗 Repository`](https://github.com/sapiuwu/galus)
+  </tr>
+</table>
 
 ---
 
 ### 🧩 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GORM-ffc107?style=for-the-badge&logo=go&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</p>
+<div align="center">
 
----
+**Languages**
 
-### 📊 GitHub Stats
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliftech&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</p>
+**Frameworks & Libraries**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliftech&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" />
+
+**Tools & Databases**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GORM-ffc107?style=flat&logo=go&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+
+</div>
 
 ---
 
 ### 🧭 Philosophy
-I believe in **compounding** — not just in wealth, but in **knowledge, skill, and impact**.  
-Every repo is an asset. Every commit is an investment in the future.  
-Every failed build is a lesson that compounds.
+
+> *"I believe in compounding — not just in wealth, but in knowledge, skill, and impact.
+> Every repo is an asset. Every commit is an investment in the future.
+> Every failed build is a lesson that compounds."*
 
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/wahyuka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:wahyukrisnaaji32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/wahyuka/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:wahyukrisnaaji32@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-⚡ <i>Building tools, automating ideas, and compounding value — one line of code at a time.</i>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" />
+
+</div>
