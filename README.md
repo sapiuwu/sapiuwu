@@ -62,31 +62,12 @@ quote: "Code builds systems. Capital builds empires."
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-
-<a href="https://github.com/sapiuwu/jin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sapiuwu&repo=jin&theme=tokyonight&hide_border=true" width="100%" />
-</a>
-
-    </td>
-    <td align="center" width="33%">
-
-<a href="https://github.com/sapiuwu/eosav">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sapiuwu&repo=eosav&theme=tokyonight&hide_border=true" width="100%" />
-</a>
-
-    </td>
-    <td align="center" width="33%">
-
-<a href="https://github.com/sapiuwu/galus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sapiuwu&repo=galus&theme=tokyonight&hide_border=true" width="100%" />
-</a>
-
-    </td>
-  </tr>
-</table>
+| | | |
+|:---:|:---:|:---:|
+| **🕵️ Jin** | **🛡️ Eosav** | **⚙️ Galus** |
+| OSINT & recon toolkit | Antivirus desktop app | Live-reload for Go |
+| `Go` `Fiber` | `Vue.js` `Electron` | `Go` `CLI` |
+| [View →](https://github.com/sapiuwu/jin) | [View →](https://github.com/sapiuwu/eosav) | [View →](https://github.com/sapiuwu/galus) |
 
 ---
 
