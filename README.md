@@ -64,32 +64,27 @@ quote: "Code builds systems. Capital builds empires."
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td align="center" width="33%">
 
-#### 🕵️ Jin
-> Passive OSINT & reconnaissance toolkit for gathering intelligence.
+<a href="https://github.com/sapiuwu/jin">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sapiuwu&repo=jin&theme=tokyonight&hide_border=true" width="100%" />
+</a>
 
-**Tech:** `Go` `Fiber` `REST API`
+    </td>
+    <td align="center" width="33%">
 
-[`🔗 Repository`](https://github.com/sapiuwu/jin)
+<a href="https://github.com/sapiuwu/eosav">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sapiuwu&repo=eosav&theme=tokyonight&hide_border=true" width="100%" />
+</a>
 
-#### 🛡️ Eosav
-> Lightweight antivirus software for desktop platforms.
+    </td>
+    <td align="center" width="33%">
 
-**Tech:** `Vue.js` `Electron` `TypeScript`
+<a href="https://github.com/sapiuwu/galus">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sapiuwu&repo=galus&theme=tokyonight&hide_border=true" width="100%" />
+</a>
 
-[`🔗 Repository`](https://github.com/sapiuwu/eosav)
-
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-#### ⚙️ Galus
-> Live-reload tool for Go developers — edit, save, and see changes instantly.
-
-**Tech:** `Go` `CLI` `FileSystem Watcher`
-
-[`🔗 Repository`](https://github.com/sapiuwu/galus)
+    </td>
   </tr>
 </table>
 
