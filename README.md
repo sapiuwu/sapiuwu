@@ -4,10 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Sapiuwu&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=%20Software%20Engineer%20%E2%80%A2%20Investor%20%E2%80%A2%20Builder&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/sapiuwu">
-  <img src="https://komarev.com/ghpvc/?username=sapiuwu&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="sapiuwu" />
-</a>
-
-<a href="https://github.com/sapiuwu">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapiuwu&theme=tokyonight&hide_border=true" width="600" />
 </a>
 
